@@ -187,6 +187,7 @@ After=network-online.target
 Wants=network-online.target
 
 [Service]
+ExecStartPre=+/usr/local/sbin/of-settings xdefaults
 User=${HAMCLOCK_USER}
 ExecStart=/usr/bin/xinit -- :0 vt1 -nolisten tcp
 Restart=on-failure
