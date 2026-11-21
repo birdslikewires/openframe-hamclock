@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: HamClock
+Source: https://github.com/openhamclock/hamclock
+
+Files: *
+Copyright: 2020-2025 Elwood Charles Downey
+           2026 Dave Koberstein and the openhamclock contributors
+License: MIT
+Comment: HamClock itself. Its full licence, and those of the libraries built into it (the
+ wsServer WebSocket server, GPL-3.0; zlib), follow from the release's source, which is
+ published with each package release as ESPHamClock-V<version>.zip.
+
+Files: package/*
+Copyright: 2026 BirdsLikeWires
+License: GPL-3.0-or-later
+Comment: The packaging and sprite manifest, from https://github.com/birdslikewires/openframe-hamclock
