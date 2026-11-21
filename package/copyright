@@ -11,6 +11,6 @@ Comment: HamClock itself. Its full licence, and those of the libraries built int
  published with each package release as ESPHamClock-V<version>.zip.
 
 Files: package/*
-Copyright: 2026 BirdsLikeWires
+Copyright: 2026 Andrew Davison
 License: GPL-3.0-or-later
 Comment: The packaging and sprite manifest, from https://github.com/birdslikewires/openframe-hamclock

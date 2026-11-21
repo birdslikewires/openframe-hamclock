@@ -74,4 +74,4 @@ The package version is HamClock's, then the OpenFrame year.month.N, e.g. `4.33-2
 
 ## Licences
 
-This repository's scripts are GPL-3.0. HamClock is MIT, and includes wsServer (GPL-3.0) and zlib; the package carries their licences, and each release carries HamClock's source zip.
+This repository's scripts are under the GNU General Public License, version 3 or (at your option) any later version (see [LICENSE](LICENSE)). Copyright 2026 Andrew Davison. HamClock is MIT, and includes wsServer (GPL-3.0) and zlib; the package carries their licences, and each release carries HamClock's source zip.
